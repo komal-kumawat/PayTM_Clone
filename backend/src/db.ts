@@ -1,5 +1,4 @@
 
-import { float } from "aws-sdk/clients/cloudfront";
 import mongoose, { Document, ObjectId, Schema } from "mongoose";
 
 export interface IUser extends Document {
